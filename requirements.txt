@@ -1,0 +1,15 @@
+# pip install -r requirements.txt
+
+# python=3.6
+
+# pip install -i https://pypi.tuna.tsinghua.edu.cn/simple package_name 安装特定包
+
+# base----------------------------------------------------------------
+Cython
+matplotlib>=3.2.2
+numpy>=1.18.5
+opencv-python>=4.1.2
+pillow
+PyYAML>=5.3
+scipy>=1.4.1
+pyrealsense2
