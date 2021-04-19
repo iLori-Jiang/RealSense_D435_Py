@@ -1,4 +1,4 @@
-# RealSense_D435_py
+# RealSense_D435_Py
 Using Intel RealSense D435 to process live images and videos using Python
 
 Reference: 
