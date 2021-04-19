@@ -2,7 +2,7 @@
 
 # python=3.6
 
-# pip install -i https://pypi.tuna.tsinghua.edu.cn/simple package_name 安装特定包
+# pip install -i https://pypi.tuna.tsinghua.edu.cn/simple package_name
 
 # base----------------------------------------------------------------
 Cython
